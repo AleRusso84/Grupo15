@@ -1,0 +1,3 @@
+autosQuePuedeComprar: function (persona) {
+    
+}
